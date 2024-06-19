@@ -1,11 +1,11 @@
 # actividad_clase9
 
-##Objetivo:
+## Objetivo:
 Resolver un problema de programación en Python utilizando POO y herencia, y luego realizar un video explicativo de no entre 3 y 5 minutos sobre cómo resolvieron el problema.
 
-##Problema de Programación:
+## Problema de Programación:
 
-##Descripción del Problema:
+## Descripción del Problema:
 Escribir un programa en Python que administre una lista de tareas. El programa debe permitir al usuario agregar, eliminar y listar tareas. Cada tarea tendrá un nombre, una descripción y una prioridad (alta, media, baja). Además, habrá diferentes tipos de tareas: TareaGeneral y TareaConFecha, cada una con características adicionales.
 
 ## Requisitos del Código:
